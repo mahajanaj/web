@@ -8,6 +8,6 @@ return 1+rev(n/10);
 }
 int main()
 {
-printf("%ld",rev(23));
+printf("%ld",rev(5544444));
 }
 
